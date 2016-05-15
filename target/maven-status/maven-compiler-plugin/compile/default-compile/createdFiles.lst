@@ -1,0 +1,9 @@
+com\yume\advertising\service\AdvertisingServiceImpl.class
+com\yume\advertising\configuration\AdvertiserTrackerInitializer.class
+com\yume\advertising\model\Advertiser.class
+com\yume\advertising\controller\IndexController.class
+com\yume\advertising\configuration\AdvertisementTrackerConfiguration.class
+com\yume\advertising\model\Advertisement.class
+com\yume\advertising\configuration\CORSFilter.class
+com\yume\advertising\service\AdvetisingService.class
+com\yume\advertising\controller\api\AdvertisingDashboardAPIController.class
